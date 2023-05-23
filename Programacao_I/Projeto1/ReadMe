@@ -1,0 +1,6 @@
+O arquivo file.bin contem um poema de uma das mais importantes escritoras brasileiras.
+Esse arquivo binário contém registros de 5 bytes, sendo um inteiro e um char. O valor inteiro indica em que posição o char deve ser colocado na string.
+Por exemplo, 
+250 a
+indica que o caracter 'a' deve ser colocado na posição 250 da string. 
+Uma vez que todos os caracteres foram colocados na string, você deve mostrar a string na tela, a qual deverá conter o poema desta famosa poetisa.
